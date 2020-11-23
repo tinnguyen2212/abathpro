@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.morguefile.com	TRUE	/	FALSE	1999999999	__cfduid	dadea8d46c19957a4e91c733ed006eaae1606101888
+cdn.morguefile.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.pixabay.com	TRUE	/	FALSE	1999999999	__cfduid	d99272fcc20e9d79f4eca0fa277fea3fa1606101899
+pixabay.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

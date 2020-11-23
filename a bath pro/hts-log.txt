@@ -1,0 +1,309 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Nov 2020 10:17:41 at http://bathprorefinishing.com/ http://bathprorefinishing.com/about-bathpro-kitchen-and-bathroom-resurfacers-florida/ http://bathprorefinishing.com/why-refinish-or-resurface-bathtubs-apopka-florida/ http://bathprorefinishing.com/choosing-a-refinisher-for-bathroom-and-kitchen-refinishing-projects/ http://bathprorefinishing.com/refinishing-process-orlando-florida/ http://bathprorefinishing.com/frequently-asked-questions-for-kitchen-and-bathtub-resurfacing/ http://bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/ http://bathprorefinishing.com/bathtub-resurfacing-current-specials-florida/ http://bathprorefinishing.com/contact-bathtub-resurfacing-company-tampa-florida/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://bathprorefinishing.com/ http://bathprorefinishing.com/about-bathpro-kitchen-and-bathroom-resurfacers-florida/ http://bathprorefinishing.com/why-refinish-or-resurface-bathtubs-apopka-florida/ http://bathprorefinishing.com/choosing-a-refinisher-for-bathroom-and-kitchen-refinishing-projects/ http://bathprorefinishing.com/refinishing-process-orlando-florida/ http://bathprorefinishing.com/frequently-asked-questions-for-kitchen-and-bathtub-resurfacing/ http://bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/ http://bathprorefinishing.com/bathtub-resurfacing-current-specials-florida/ http://bathprorefinishing.com/contact-bathtub-resurfacing-company-tampa-florida/ -O1 "C:\Users\Admin\Desktop\A bath pro\a bath pro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:17:43	Warning: 	Note: due to bathprorefinishing.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:22:43	Warning: 	Retry after error -4 (Incorrect length (226686 Bytes, 297211 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-07-2.png (from bathprorefinishing.com/refinishing-process-orlando-florida/)
+10:22:44	Warning: 	Retry after error -4 (Incorrect length (223902 Bytes, 322446 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-07-5.png (from bathprorefinishing.com/refinishing-process-orlando-florida/)
+10:22:45	Warning: 	Found for bathprorefinishing.com/frequently-asked-questions-for-kitchen-and-bathtub-resurfacing/privacy-policy/
+10:22:45	Warning: 	File has moved from bathprorefinishing.com/frequently-asked-questions-for-kitchen-and-bathtub-resurfacing/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:22:45	Warning: 	Retry after error -4 (Incorrect length (226800 Bytes, 342610 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tile_florida11.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:22:47	Warning: 	Retry after error -4 (Incorrect length (230405 Bytes, 377181 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tile_florida21.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:22:51	Warning: 	Retry after error -4 (Incorrect length (295344 Bytes, 449756 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tub_resurfacing_florida1.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:01	Warning: 	Retry after error -4 (Incorrect length (275058 Bytes, 402808 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tub_resurfacing_florida2.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:04	Warning: 	Retry after error -4 (Incorrect length (706424 Bytes, 842006 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-shower_tile_refinishing_and_tub_resurfacing_florida1.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:10	Warning: 	Retry after error -4 (Incorrect length (558993 Bytes, 653504 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tub_resurfacing_florida3.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:17	Warning: 	Retry after error -4 (Incorrect length (354178 Bytes, 527532 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tub_resurfacing_florida2-4.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:22	Warning: 	Retry after error -4 (Incorrect length (441407 Bytes, 573725 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2011-02-bathroom_tile_refinishing_and_tub_resurfacing_florida2-3.jpg (from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/)
+10:23:27	Warning: 	Found for bathprorefinishing.com/privacy-policy/privacy-policy/
+10:23:27	Warning: 	File has moved from bathprorefinishing.com/privacy-policy/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:27:00	Warning: 	Found for bathprorefinishing.com/blog/privacy-policy/
+10:27:00	Warning: 	File has moved from bathprorefinishing.com/blog/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:27:01	Warning: 	Moved Permanently for bathprorefinishing.com/about-bathpro-kitchen-and-bathroom-resurfacers-florida/privacy-policy/privacy-policy/
+10:27:01	Warning: 	File has moved from bathprorefinishing.com/about-bathpro-kitchen-and-bathroom-resurfacers-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/why-refinish-or-resurface-bathtubs-apopka-florida/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/why-refinish-or-resurface-bathtubs-apopka-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/choosing-a-refinisher-for-bathroom-and-kitchen-refinishing-projects/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/choosing-a-refinisher-for-bathroom-and-kitchen-refinishing-projects/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/refinishing-process-orlando-florida/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/refinishing-process-orlando-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/job-photos-bathtub-resurfacing-apopka-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/bathtub-resurfacing-current-specials-florida/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/bathtub-resurfacing-current-specials-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:02	Warning: 	Moved Permanently for bathprorefinishing.com/contact-bathtub-resurfacing-company-tampa-florida/privacy-policy/privacy-policy/
+10:27:02	Warning: 	File has moved from bathprorefinishing.com/contact-bathtub-resurfacing-company-tampa-florida/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:27:03	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1267
+10:27:03	Warning: 	File has moved from bathprorefinishing.com/?p=1267 to http://bathprorefinishing.com
+10:27:03	Warning: 	Moved Permanently for bathprorefinishing.com/can-easily-replace-bathtub-faucet/privacy-policy/
+10:27:03	Warning: 	File has moved from bathprorefinishing.com/can-easily-replace-bathtub-faucet/privacy-policy/ to http://bathprorefinishing.com
+10:27:24	Warning: 	Moved Permanently for bathprorefinishing.com/clean-the-bathroom-in-10-minutes-or-less-with-these-tips/
+10:27:24	Warning: 	File has moved from bathprorefinishing.com/clean-the-bathroom-in-10-minutes-or-less-with-these-tips/ to http://bathprorefinishing.com
+10:27:26	Warning: 	Moved Permanently for bathprorefinishing.com/author/admin/page/2/
+10:27:26	Warning: 	File has moved from bathprorefinishing.com/author/admin/page/2/ to http://bathprorefinishing.com
+10:27:28	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1264
+10:27:28	Warning: 	File has moved from bathprorefinishing.com/?p=1264 to http://bathprorefinishing.com
+10:27:31	Warning: 	Retry after error -4 (Incorrect length (393014 Bytes, 491707 expected)) at link bathprorefinishing.com/wp-content/uploads/2017/01/Fiberglass.jpg (from bathprorefinishing.com/can-quickly-easily-approach-process-replacing-bathtub/)
+10:27:31	Warning: 	Moved Permanently for bathprorefinishing.com/can-quickly-easily-approach-process-replacing-bathtub/privacy-policy/
+10:27:31	Warning: 	File has moved from bathprorefinishing.com/can-quickly-easily-approach-process-replacing-bathtub/privacy-policy/ to http://bathprorefinishing.com
+10:27:32	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1261
+10:27:32	Warning: 	File has moved from bathprorefinishing.com/?p=1261 to http://bathprorefinishing.com
+10:27:33	Warning: 	Retry after error -4 (No data (connection closed)) at link bathprorefinishing.com/wp-content/uploads/2017/02/Bathtub-3-1.jpg (from bathprorefinishing.com/consider-bathtub-refinishing-total-replacement/)
+10:27:34	Warning: 	Moved Permanently for bathprorefinishing.com/consider-bathtub-refinishing-total-replacement/privacy-policy/
+10:27:34	Warning: 	File has moved from bathprorefinishing.com/consider-bathtub-refinishing-total-replacement/privacy-policy/ to http://bathprorefinishing.com
+10:27:50	Warning: 	Retry after error -4 (No data (connection closed)) at link bathprorefinishing.com/wp-content/themes/bathprorefinishingcom-bathtub-resurfacing-current-specials-florida/js/navigation.js?ver=1.0 (from bathprorefinishing.com/consider-bathtub-refinishing-total-replacement/)
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1258
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1258 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/approach-process-reglazing-bathtub/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/approach-process-reglazing-bathtub/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1255
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1255 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/steps-follow-removing-bathtub-bathroom/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/steps-follow-removing-bathtub-bathroom/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1251
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1251 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/5-insanely-easy-steps-remove-fiberglass-bathtub-start-finish/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/5-insanely-easy-steps-remove-fiberglass-bathtub-start-finish/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1226
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1226 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/thinking-about-replacing-your-tub-consider-bathtub-refinishing-instead/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/thinking-about-replacing-your-tub-consider-bathtub-refinishing-instead/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1223
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1223 to http://bathprorefinishing.com
+10:27:51	Error: 	"Forbidden" (403) at link https://pixabay.com/static/uploads/photo/2016/04/18/08/51/bathroom-1336167_960_720.jpg (from bathprorefinishing.com/what-are-the-10-best-ways-to-make-a-bathroom-look-new-again/)
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/what-are-the-10-best-ways-to-make-a-bathroom-look-new-again/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/what-are-the-10-best-ways-to-make-a-bathroom-look-new-again/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1210
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1210 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/how-can-you-prevent-damage-to-your-newly-refinished-tub/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/how-can-you-prevent-damage-to-your-newly-refinished-tub/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1191
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1191 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/how-do-i-find-the-right-bathtub-refinisher-for-my-home/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/how-do-i-find-the-right-bathtub-refinisher-for-my-home/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1167
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1167 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/how-can-grout-and-caulking-improve-a-bathrooms-look/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/how-can-grout-and-caulking-improve-a-bathrooms-look/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1163
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1163 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/can-bathtub-refinishing-breathe-new-life-into-your-bathroom-for-spring/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/can-bathtub-refinishing-breathe-new-life-into-your-bathroom-for-spring/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1157
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1157 to http://bathprorefinishing.com
+10:27:51	Error: 	"Forbidden" (403) at link https://pixabay.com/static/uploads/photo/2014/10/16/08/41/bathroom-490781_960_720.jpg (from bathprorefinishing.com/what-is-the-best-way-to-handle-tile-and-grout-cleaning/)
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/what-is-the-best-way-to-handle-tile-and-grout-cleaning/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/what-is-the-best-way-to-handle-tile-and-grout-cleaning/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1151
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1151 to http://bathprorefinishing.com
+10:27:51	Error: 	"Forbidden" (403) at link https://pixabay.com/static/uploads/photo/2015/03/12/14/25/shower-670254_960_720.jpg (from bathprorefinishing.com/is-tub-refinishing-the-best-choice-to-save-money/)
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/is-tub-refinishing-the-best-choice-to-save-money/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/is-tub-refinishing-the-best-choice-to-save-money/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1135
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1135 to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/bathtub-refinishing-basics-how-do-i-get-my-grout-white-again/privacy-policy/
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/bathtub-refinishing-basics-how-do-i-get-my-grout-white-again/privacy-policy/ to http://bathprorefinishing.com
+10:27:51	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1085
+10:27:51	Warning: 	File has moved from bathprorefinishing.com/?p=1085 to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/can-bathtub-refinishing-give-bathroom-new-lease-life/privacy-policy/
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/can-bathtub-refinishing-give-bathroom-new-lease-life/privacy-policy/ to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1143
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/?p=1143 to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/does-bathtub-refinishing-provide-a-quality-lasting-surface/privacy-policy/
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/does-bathtub-refinishing-provide-a-quality-lasting-surface/privacy-policy/ to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1097
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/?p=1097 to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/know-bathtub-refinishing-right-choice-needs/privacy-policy/
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/know-bathtub-refinishing-right-choice-needs/privacy-policy/ to http://bathprorefinishing.com
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1071
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/?p=1071 to http://bathprorefinishing.com
+10:29:33	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link cdn.lifemartini.com/wp-content/uploads/2013/09/Color-Scheme.jpg (from bathprorefinishing.com/re-decorating-bathroom-can-easy-job/)
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/re-decorating-bathroom-can-easy-job/privacy-policy/
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/re-decorating-bathroom-can-easy-job/privacy-policy/ to http://bathprorefinishing.com
+10:29:33	Warning: 	Found for bathprorefinishing.com/3-advantages-to-reglazing-your-bathtub/privacy-policy/
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/3-advantages-to-reglazing-your-bathtub/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:29:33	Warning: 	Moved Permanently for bathprorefinishing.com/?p=1058
+10:29:33	Warning: 	File has moved from bathprorefinishing.com/?p=1058 to http://bathprorefinishing.com
+10:30:09	Warning: 	Moved Permanently for bathprorefinishing.com/three-budget-friendly-fixes-for-ugly-bathrooms/
+10:30:09	Warning: 	File has moved from bathprorefinishing.com/three-budget-friendly-fixes-for-ugly-bathrooms/ to http://bathprorefinishing.com
+10:30:22	Warning: 	Found for bathprorefinishing.com/how-to-achieve-boho-chic-perfection-in-your-bathroom/privacy-policy/
+10:30:22	Warning: 	File has moved from bathprorefinishing.com/how-to-achieve-boho-chic-perfection-in-your-bathroom/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:30:30	Warning: 	Found for bathprorefinishing.com/a-dos-and-dont-guide-for-your-bathroom-or-kitchen-remodel/privacy-policy/
+10:30:30	Warning: 	File has moved from bathprorefinishing.com/a-dos-and-dont-guide-for-your-bathroom-or-kitchen-remodel/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:30:32	Warning: 	Moved Permanently for bathprorefinishing.com/5-health-benefits-of-soaking-in-the-tub/
+10:30:32	Warning: 	File has moved from bathprorefinishing.com/5-health-benefits-of-soaking-in-the-tub/ to http://bathprorefinishing.com
+10:30:34	Warning: 	Moved Permanently for bathprorefinishing.com/when-is-the-best-time-to-think-about-tub-refinishing/
+10:30:34	Warning: 	File has moved from bathprorefinishing.com/when-is-the-best-time-to-think-about-tub-refinishing/ to http://bathprorefinishing.com
+10:30:55	Warning: 	Found for bathprorefinishing.com/rub-a-dub-dub-the-backyard-has-a-tub/privacy-policy/
+10:30:55	Warning: 	File has moved from bathprorefinishing.com/rub-a-dub-dub-the-backyard-has-a-tub/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:31:04	Warning: 	Found for bathprorefinishing.com/decorating-your-bathroom-or-kitchen-in-a-rental-home/privacy-policy/
+10:31:04	Warning: 	File has moved from bathprorefinishing.com/decorating-your-bathroom-or-kitchen-in-a-rental-home/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:31:53	Warning: 	Moved Permanently for bathprorefinishing.com/4-brilliantly-bold-bathroom-tile-patterns/privacy-policy/
+10:31:53	Warning: 	File has moved from bathprorefinishing.com/4-brilliantly-bold-bathroom-tile-patterns/privacy-policy/ to http://bathprorefinishing.com
+10:31:54	Warning: 	Moved Permanently for bathprorefinishing.com/why-bathtub-refinishing-is-a-no-brainer/
+10:31:54	Warning: 	File has moved from bathprorefinishing.com/why-bathtub-refinishing-is-a-no-brainer/ to http://bathprorefinishing.com
+10:31:57	Warning: 	Moved Permanently for bathprorefinishing.com/eliminating-bathtub-waste-refinishing-an-eco-friendly-choice/
+10:31:57	Warning: 	File has moved from bathprorefinishing.com/eliminating-bathtub-waste-refinishing-an-eco-friendly-choice/ to http://bathprorefinishing.com
+10:31:58	Warning: 	Found for bathprorefinishing.com/four-ways-to-go-green-in-your-kitchen/privacy-policy/
+10:31:58	Warning: 	File has moved from bathprorefinishing.com/four-ways-to-go-green-in-your-kitchen/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:31:59	Warning: 	Retry after error -4 (Incorrect length (707204 Bytes, 802622 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2014-06-bathpro-6-16.png (from bathprorefinishing.com/how-to-know-you-are-hiring-a-reputable-refinishing-company/)
+10:31:59	Warning: 	Moved Permanently for bathprorefinishing.com/what-is-the-difference-between-refinishing-reglazing-and-resurfacing/
+10:31:59	Warning: 	File has moved from bathprorefinishing.com/what-is-the-difference-between-refinishing-reglazing-and-resurfacing/ to http://bathprorefinishing.com
+10:31:59	Warning: 	Moved Permanently for bathprorefinishing.com/tricks-that-turn-a-typical-bathroom-into-a-spa-retreat/
+10:31:59	Warning: 	File has moved from bathprorefinishing.com/tricks-that-turn-a-typical-bathroom-into-a-spa-retreat/ to http://bathprorefinishing.com
+10:31:59	Warning: 	Found for bathprorefinishing.com/how-to-know-you-are-hiring-a-reputable-refinishing-company/privacy-policy/
+10:31:59	Warning: 	File has moved from bathprorefinishing.com/how-to-know-you-are-hiring-a-reputable-refinishing-company/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:31:59	Warning: 	Moved Permanently for bathprorefinishing.com/5-surprising-ways-to-create-more-storage-in-the-kitchen/
+10:31:59	Warning: 	File has moved from bathprorefinishing.com/5-surprising-ways-to-create-more-storage-in-the-kitchen/ to http://bathprorefinishing.com
+10:32:02	Warning: 	Found for bathprorefinishing.com/creative-diy-seating-and-storage-for-the-kitchen/privacy-policy/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/creative-diy-seating-and-storage-for-the-kitchen/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:32:02	Warning: 	Moved Permanently for bathprorefinishing.com/bathpro-of-central-florida-providing-refinishing-services-for-over-20-years/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/bathpro-of-central-florida-providing-refinishing-services-for-over-20-years/ to http://bathprorefinishing.com
+10:32:02	Warning: 	Moved Permanently for bathprorefinishing.com/3-affordable-solutions-to-revive-outdated-kitchen-cabinets/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/3-affordable-solutions-to-revive-outdated-kitchen-cabinets/ to http://bathprorefinishing.com
+10:32:02	Warning: 	Found for bathprorefinishing.com/bathtub-tile-refinishing-is-an-affordable-solution-for-property-owners/privacy-policy/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/bathtub-tile-refinishing-is-an-affordable-solution-for-property-owners/privacy-policy/ to http://bathprorefinishing.com/privacy-policy/
+10:32:02	Warning: 	Moved Permanently for bathprorefinishing.com/tips-to-transform-a-dull-bathroom-into-a-pretty-bathroom/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/tips-to-transform-a-dull-bathroom-into-a-pretty-bathroom/ to http://bathprorefinishing.com
+10:32:02	Warning: 	Moved Permanently for bathprorefinishing.com/avoid-these-small-bathroom-redesign-mistakes/
+10:32:02	Warning: 	File has moved from bathprorefinishing.com/avoid-these-small-bathroom-redesign-mistakes/ to http://bathprorefinishing.com
+10:32:05	Warning: 	Moved Permanently for bathprorefinishing.com/what-to-do-about-your-blah-bathroom/privacy-policy/
+10:32:05	Warning: 	File has moved from bathprorefinishing.com/what-to-do-about-your-blah-bathroom/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/four-ideas-you-can-actually-do-in-your-bathroom/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/four-ideas-you-can-actually-do-in-your-bathroom/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/bathroom-update-ideas-for-low-budgets/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/bathroom-update-ideas-for-low-budgets/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/3-upcycling-ideas-that-add-unique-bathroom-storage/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/3-upcycling-ideas-that-add-unique-bathroom-storage/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/why-having-a-functional-kitchen-matters/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/why-having-a-functional-kitchen-matters/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/refinishing-is-a-sensible-and-cost-effective-choice/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/refinishing-is-a-sensible-and-cost-effective-choice/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/why-bathtub-resurfacing-is-not-a-diy-job/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/why-bathtub-resurfacing-is-not-a-diy-job/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/choosing-the-right-professional-refinishing-company/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/choosing-the-right-professional-refinishing-company/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/3-things-you-should-know-about-cabinet-refinishing/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/3-things-you-should-know-about-cabinet-refinishing/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/cabinet-refinishing-a-low-cost-solution-for-homeowners/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/cabinet-refinishing-a-low-cost-solution-for-homeowners/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/why-fixing-the-tub-tile-with-refinishing-is-a-cost-saving-option-for-homeowners/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/why-fixing-the-tub-tile-with-refinishing-is-a-cost-saving-option-for-homeowners/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/8-practical-ideas-for-a-small-bathroom-remodel/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/8-practical-ideas-for-a-small-bathroom-remodel/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/save-money-time-on-your-kitchen-remodel-by-resurfacing-kitchen-countertops-cabinets-and-tile/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/save-money-time-on-your-kitchen-remodel-by-resurfacing-kitchen-countertops-cabinets-and-tile/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/homeowners-guide-to-bathtub-resurfacing/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/homeowners-guide-to-bathtub-resurfacing/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/the-benefits-of-tub-tile-refinishing-services/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/the-benefits-of-tub-tile-refinishing-services/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/small-inexpensive-ideas-that-add-personality-to-your-home/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/small-inexpensive-ideas-that-add-personality-to-your-home/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/why-homeowners-are-choosing-bathtub-tile-refinishing-over-remodeling/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/why-homeowners-are-choosing-bathtub-tile-refinishing-over-remodeling/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/5-ways-to-transform-your-small-kitchen-into-an-inviting-space/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/5-ways-to-transform-your-small-kitchen-into-an-inviting-space/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/8-reasons-tub-refinishing-services-is-the-answer-to-your-ugly-bathroom/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/8-reasons-tub-refinishing-services-is-the-answer-to-your-ugly-bathroom/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/6-beautiful-ways-to-incorporate-natural-stone-or-river-rocks-into-your-bathroom/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/6-beautiful-ways-to-incorporate-natural-stone-or-river-rocks-into-your-bathroom/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/author/admin/privacy-policy/page/2/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/author/admin/privacy-policy/page/2/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/author/admin/privacy-policy/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/author/admin/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/wp-content/themes/bathprorefinishingcom-bathtub-resurfacing-current-specials-florida/js/navigation.js?ver=1.0
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/wp-content/themes/bathprorefinishingcom-bathtub-resurfacing-current-specials-florida/js/navigation.js?ver=1.0 to http://bathprorefinishing.com
+10:32:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link cdn.lifemartini.com/wp-content/uploads/2013/09/Color-Scheme.jpg (from bathprorefinishing.com/re-decorating-bathroom-can-easy-job/)
+10:32:06	Warning: 	Retry after error -4 (Incorrect length (240799 Bytes, 329230 expected)) at link bathprorefinishing.com/files/includes/images/wp-content-uploads-2013-11-rustic-bathroom-25.jpg (from bathprorefinishing.com/7-rustic-bathroom-inspired-designs/)
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/bathtub-refinishing-diy-versus-professionals/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/bathtub-refinishing-diy-versus-professionals/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/stop-dealing-with-a-dirty-tub-and-refinish-it/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/stop-dealing-with-a-dirty-tub-and-refinish-it/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/7-rustic-bathroom-inspired-designs/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/7-rustic-bathroom-inspired-designs/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/re-create-these-5-bathroom-color-schemes/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/re-create-these-5-bathroom-color-schemes/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/7-tips-to-maximizing-the-function-and-beauty-of-a-small-bathroom/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/7-tips-to-maximizing-the-function-and-beauty-of-a-small-bathroom/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/ways-to-update-the-bathroom-on-a-tight-budget/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/ways-to-update-the-bathroom-on-a-tight-budget/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/refinishing-these-four-household-items-saves-time-and-money-on-remodels/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/refinishing-these-four-household-items-saves-time-and-money-on-remodels/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/understanding-the-principles-of-design-before-your-kitchen-or-bathroom-remodel/privacy-policy/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/understanding-the-principles-of-design-before-your-kitchen-or-bathroom-remodel/privacy-policy/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/4-reasons-to-resurface-the-bathtub-and-tile-over-replacement/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/4-reasons-to-resurface-the-bathtub-and-tile-over-replacement/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/instructions-for-installing-a-bathtub-faucet/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/instructions-for-installing-a-bathtub-faucet/ to http://bathprorefinishing.com
+10:32:06	Warning: 	Moved Permanently for bathprorefinishing.com/travel-to-paris-every-time-you-enter-your-bathroom/
+10:32:06	Warning: 	File has moved from bathprorefinishing.com/travel-to-paris-every-time-you-enter-your-bathroom/ to http://bathprorefinishing.com
+10:32:09	Warning: 	Moved Permanently for bathprorefinishing.com/5-steps-to-take-before-starting-a-bathroom-remodel/privacy-policy/
+10:32:09	Warning: 	File has moved from bathprorefinishing.com/5-steps-to-take-before-starting-a-bathroom-remodel/privacy-policy/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/4-elegant-bathroom-designs-using-neutral-colors/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/4-elegant-bathroom-designs-using-neutral-colors/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/4-kitchen-trends-that-are-okay-to-steal-and-copy/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/4-kitchen-trends-that-are-okay-to-steal-and-copy/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/get-inspired-by-these-distinctive-bathrooms-kitchens-from-around-the-globe/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/get-inspired-by-these-distinctive-bathrooms-kitchens-from-around-the-globe/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/5-incredibly-cool-outdoor-dream-kitchens/privacy-policy/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/5-incredibly-cool-outdoor-dream-kitchens/privacy-policy/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/what-are-the-differences-between-re-facing-and-refinishing-cabinets/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/what-are-the-differences-between-re-facing-and-refinishing-cabinets/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/a-step-by-step-guide-to-installing-a-backsplash/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/a-step-by-step-guide-to-installing-a-backsplash/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/small-budget-kitchen-and-bathroom-upgrade-ideas/privacy-policy/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/small-budget-kitchen-and-bathroom-upgrade-ideas/privacy-policy/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/web/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/web/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/overcoming-the-fear-of-color/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/overcoming-the-fear-of-color/ to http://bathprorefinishing.com
+10:32:10	Warning: 	Moved Permanently for bathprorefinishing.com/how-to-refinish-an-old-bathroom-vanity/privacy-policy/
+10:32:10	Warning: 	File has moved from bathprorefinishing.com/how-to-refinish-an-old-bathroom-vanity/privacy-policy/ to http://bathprorefinishing.com
+10:32:16	Warning: 	Moved Permanently for bathprorefinishing.com/3-questions-you-need-to-ask-before-hiring-a-refinishing-company/
+10:32:16	Warning: 	File has moved from bathprorefinishing.com/3-questions-you-need-to-ask-before-hiring-a-refinishing-company/ to http://bathprorefinishing.com
+10:32:16	Warning: 	Moved Permanently for bathprorefinishing.com/best-practices-for-eliminating-water-waste-in-the-bathroom/
+10:32:16	Warning: 	File has moved from bathprorefinishing.com/best-practices-for-eliminating-water-waste-in-the-bathroom/ to http://bathprorefinishing.com
+10:32:16	Warning: 	Moved Permanently for bathprorefinishing.com/8-ideas-for-decorating-a-kids-bathroom/
+10:32:16	Warning: 	File has moved from bathprorefinishing.com/8-ideas-for-decorating-a-kids-bathroom/ to http://bathprorefinishing.com
+10:32:16	Warning: 	Moved Permanently for bathprorefinishing.com/multi-colored-tiles-in-your-bathroom-is-it-a-do-or-dont/privacy-policy/
+10:32:16	Warning: 	File has moved from bathprorefinishing.com/multi-colored-tiles-in-your-bathroom-is-it-a-do-or-dont/privacy-policy/ to http://bathprorefinishing.com
+10:32:22	Warning: 	Moved Permanently for bathprorefinishing.com/budget-bathroom-makeover-for-less-than-1500/
+10:32:22	Warning: 	File has moved from bathprorefinishing.com/budget-bathroom-makeover-for-less-than-1500/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/moroccan-styled-bathrooms-you-would-never-want-to-leave/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/moroccan-styled-bathrooms-you-would-never-want-to-leave/privacy-policy/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/bathtub-refinishing-reglazing-its-a-careful-job/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/bathtub-refinishing-reglazing-its-a-careful-job/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/5-creative-bathroom-storage-ideas/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/5-creative-bathroom-storage-ideas/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/the-main-differences-bathtub-refinishing-vs-bathtub-liners/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/the-main-differences-bathtub-refinishing-vs-bathtub-liners/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/removing-mold-from-grout-with-natural-ingredients/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/removing-mold-from-grout-with-natural-ingredients/privacy-policy/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/step-by-step-guide-for-re-caulking-the-bathtub/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/step-by-step-guide-for-re-caulking-the-bathtub/privacy-policy/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/blog/page/4/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/blog/page/4/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/blog/page/3/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/blog/page/3/privacy-policy/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/blog/page/2/privacy-policy/page/2/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/blog/page/2/privacy-policy/page/2/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/blog/page/2/privacy-policy/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/blog/page/2/privacy-policy/privacy-policy/ to http://bathprorefinishing.com
+10:32:23	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link cdn.lifemartini.com/wp-content/uploads/2013/09/Color-Scheme.jpg (from bathprorefinishing.com/re-decorating-bathroom-can-easy-job/)
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/kitchen-bargains-low-cost-ideas-with-high-end-style/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/kitchen-bargains-low-cost-ideas-with-high-end-style/ to http://bathprorefinishing.com
+10:32:23	Warning: 	Moved Permanently for bathprorefinishing.com/do-you-have-an-old-worn-out-tub-dont-pitch-it-fix-it/privacy-policy/
+10:32:23	Warning: 	File has moved from bathprorefinishing.com/do-you-have-an-old-worn-out-tub-dont-pitch-it-fix-it/privacy-policy/ to http://bathprorefinishing.com
+10:32:31	Warning: 	Moved Permanently for bathprorefinishing.com/makeover-ideas-for-the-kitchen/
+10:32:31	Warning: 	File has moved from bathprorefinishing.com/makeover-ideas-for-the-kitchen/ to http://bathprorefinishing.com
+10:32:31	Warning: 	Moved Permanently for bathprorefinishing.com/5-star-hotel-bathrooms-from-around-the-world/
+10:32:31	Warning: 	File has moved from bathprorefinishing.com/5-star-hotel-bathrooms-from-around-the-world/ to http://bathprorefinishing.com
+10:32:31	Warning: 	Moved Permanently for bathprorefinishing.com/an-infographic-on-how-the-bathroom-evolved/privacy-policy/
+10:32:31	Warning: 	File has moved from bathprorefinishing.com/an-infographic-on-how-the-bathroom-evolved/privacy-policy/ to http://bathprorefinishing.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 50 seconds : 610 links scanned, 450 files written (22953471 bytes overall) [21303796 bytes received at 23936 bytes/sec], 2788511 bytes transferred using HTTP compression in 76 files, ratio 33%, 5.2 requests per connection
+(4 errors, 294 warnings, 0 messages)

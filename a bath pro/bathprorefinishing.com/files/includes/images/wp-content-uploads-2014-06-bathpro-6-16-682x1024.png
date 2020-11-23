@@ -1,0 +1,299 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+
+<script type="text/javascript" src="/static/js/analytics.js"></script>
+<script type="text/javascript">archive_analytics.values.server_name="wwwb-app17.us.archive.org";archive_analytics.values.server_ms=0;</script>
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css"/>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Account Suspended</title>
+<style type="text/css">
+.title {
+	font-family: arial, verdana;
+	font-size: 9pt;
+	font-weight: normal;
+}
+.distributers {
+	font-family: arial, verdana;
+	font-size: 11pt;
+	font-weight: normal;
+}
+.info {
+	font-family: arial, verdana;
+	font-size: 8pt;
+	font-weight: normal;
+}
+.design {
+	font-family: arial, verdana;
+	font-size: 8pt;
+	font-weight: normal;
+}
+.menu {
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 8pt;
+	font-weight: normal;
+}
+.cellheader {
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 20pt;
+	font-weight: normal;
+	color: #F1F1F1;
+}
+.scellheader {
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 15pt;
+	font-weight: normal;
+	color: #F1F1F1;
+}
+.bigcellheader {
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 30pt;
+	font-weight: normal;
+	color: #F1F1F1;
+	link: #F1F1F1;
+	vlink: #F1F1F1;
+}
+.tblheader {
+	background-color: #AAAAAA;
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 14pt;
+	font-weight: normal;
+}
+.tdshade1 {
+	background-color: #DDDDDD;
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 10pt;
+	font-weight: normal;
+}
+.tdshade2 {
+	background-color: #EEEEEE;
+	border-top: 1px #374646 solid;
+	border-left: 1px #374646 solid;
+	border-right: 1px #374646 solid;
+	border-bottom: 1px #374646 solid;
+	font-family: verdana, arial;
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+body {
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+	background: url(/save/_embed/http://www.bathprorefinishing.com/img-sys/bg.jpg) repeat-x #dff4fe;
+	color: #6f6f6f;
+	font-size: 12px;
+	background-color: #FFFFFF;
+	background-image: url();
+}
+a {
+	color:#0075a9;
+}
+* {
+	margin:0;
+	padding:0;
+}
+#logotag { background:url(/save/_embed/http://www.shsatlanta.com/shs-atlanta-web-design-support-logo.jpg) no-repeat;
+    height: 60px;
+    margin: 30px auto 25px;
+    width: 215px;
+}
+h1 {
+	height:33px;
+	width: 100%;
+	color:#fff;
+	padding:20px;
+	font-size:28px;
+	font-family:century gothic, arial;letter-spacing:-0.5px;
+	text-align: center;
+	background: #96051c;
+	margin: 0 auto;
+}
+h2 {
+	font-size:20px;
+	margin:30px 0 15px 0;
+}
+p {
+	margin:10px 15px 15px 50px;
+}
+#wrap {
+	margin:50px auto 20px auto;
+	width:906px;
+}
+.msg {
+	background:#cccccc;
+	min-height:206px;
+	color:#000;
+	font-size:16px;
+	padding:25px;
+	text-align:center;
+}
+* html .msg {
+	height:206px;
+}
+.msg p {
+	border:none;
+	margin:0 0 10px 0;
+}
+.msg ul {
+	margin:15px 15px 0 15px;
+}
+li {
+	margin:10px 0;
+}
+.note {
+	font-style:italic;
+	border-bottom:1px solid #cae0e5;
+	border-top:1px solid #cae0e5;
+	padding:15px 0;
+	margin-right:50px;
+}
+#contactinfo, .contactinfo {
+	padding:5px 0;
+}
+#contactinfo li, .contactinfo li {
+	float:left;
+	padding:5px;
+	width:250px;
+	list-style:none;
+	font-size:14px;
+}
+p.troubleshoot {
+	font-style:italic;
+	border:dashed 1px #dfe9ed;
+	padding:5px;
+	margin:10px 0 0 0;
+}
+body,td,th {
+	color: #000000;
+}
+</style>
+</head>
+<body>
+<script> if (window.archive_analytics) { window.archive_analytics.values['server_name']="wwwb-app17.us.archive.org";}; </script>
+
+<!-- Start of Record Banner output -->
+<wb_div id="__wb_record_overlay_div" class="__wb_overlay">
+</wb_div>
+
+<wb_div class="__wb_record_content" id="__wb_record_content_loader">
+<wb_h1 id="_wb_load_msg">Saving page now...</wb_h1>
+<wb_p id="_wb_curr_url">http://www.bathprorefinishing.com/cgi-sys/suspendedpage.cgi</wb_p>
+<wb_p>As it appears live January 7, 2015 4:40:48 PM UTC</wb_p>
+
+
+
+<wb_div id="__wb_spinningSquaresG">
+<wb_div id="__wb_spinningSquaresG_1" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_2" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_3" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_4" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_5" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_6" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_7" class="__wb_spinningSquaresG">
+</wb_div>
+<wb_div id="__wb_spinningSquaresG_8" class="__wb_spinningSquaresG">
+</wb_div>
+</wb_div>
+
+<img id="_wb_logo" src="/static/images/logo_WM.png"/>
+</wb_div>
+
+<script type="text/javascript" src="/static/js/disclaim-element.js" ></script>
+<script type="text/javascript">
+  function doRedir()
+  {   
+    var redirUrl = "/web/20150107164048/http://www.bathprorefinishing.com/cgi-sys/suspendedpage.cgi";
+    var textElem = document.getElementById("_wb_load_msg");
+    if (textElem) {
+      textElem.innerHTML = "Loading Saved Page...";
+    }
+    window.location.replace(redirUrl);  
+  }
+  
+  function redirToCapture()
+  {
+    window.setTimeout(doRedir, 1000);
+  }
+
+  
+  if ( window != window.top ) {
+    
+    var wmOverlay = document.getElementById("__wb_record_overlay");
+    
+    if (wmOverlay) {
+      wmOverlay.style.display = "none";
+    }
+    
+  } else {
+    
+    if (window.addEventListener) {
+      window.addEventListener('load', redirToCapture, false);
+    } else if (window.attachEvent) {
+      window.attachEvent('onload', redirToCapture);
+    }
+    
+    // Just in case, redir after 90 secs
+    window.setTimeout(doRedir, 90000);
+  }
+</script>
+
+<!-- End of Record Banner Output output -->
+
+<div id="logotag"></div>
+<h1>Account Suspended</h1>
+<div id="wrap">
+  <div class="msg">
+    <h2><strong>This Account Has Been Suspended Due to Non-Renewal or Non-Payment</strong></h2>
+    <p>&nbsp;</p>
+    <p>The renewal fee for 2014 hosting services from our BILLING@SHSATLANTA.COM email system went unrenewed along with all Reminders. .</p>
+  <p>Please check your SPAM folders for web hosting renewal links with our SQUARE platform processing platofrm links if you did not receive any renewals or reminders in your inbox.</p></div>
+</div>
+</body>
+</html>
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 16:40:48 Jan 7, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:40:49 Jan 7, 2015.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
